@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Taneesh Bhojawala, freshmamn at IIIT-Bangalore.<br/>
+I'm Taneesh Bhojawala, student at IIIT-Bangalore.<br/>
 Currently, I am persuing Computer Science.<br/>
 Still exploring what to work on and trying to find some project ideas.<br/>
 
