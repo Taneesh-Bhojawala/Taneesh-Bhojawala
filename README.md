@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Taneesh Bhojawala, student at IIIT-Bangalore.<br/>
-Currently, I am persuing Computer Science.<br/>
-Still exploring what to work on and trying to find some project ideas.<br/>
+Currently, I am persuing Bachelor of Technology in Computer Science Engineering.<br/>
 
 Email: taneeshbhojawala@gmail.com
